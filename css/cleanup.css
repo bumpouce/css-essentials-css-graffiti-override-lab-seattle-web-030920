@@ -8,6 +8,6 @@
   display: none;
 }
 
-#wall div:last-child {
+#wall div.parent:last-child {
   display: none;
 }
