@@ -20,4 +20,4 @@ div#wall .parent div#tag-5.slick {
 } 
 */
 
-#wall .parent { display: none; }
+#wall .parent div { display: none; }
