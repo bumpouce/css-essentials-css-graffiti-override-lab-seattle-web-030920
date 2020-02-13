@@ -6,11 +6,7 @@
   display: none;
 }
 
-#tag-3.slick {
-  display: none;
-}
-
-#wall .parent #tag-4 {
+div#wall #tag-3.slick {
   display: none;
 }
 
