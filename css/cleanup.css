@@ -8,6 +8,6 @@
   display: none;
 }
 
-#wall .parent div > #tag-7.slick {
+#wall:last-child .parent div {
   display: none;
 }
