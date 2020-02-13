@@ -4,10 +4,10 @@
   display: none;
 } 
 
-#wall div.parent div:last-child {
+#wall .parent div:last-child {
   display: none;
 }
 
-div#wall div.parent div > #tag-7.slick {
+#wall div.parent div > #tag-7.slick {
   display: none;
 }
