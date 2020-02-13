@@ -1,13 +1,4 @@
-
 #wall .tag-1, #wall div#tag-2, div#wall div#tag-3.slick,
-#wall .parent #tag-4, div#wall .parent div#tag-5.slick {
-  display: none;
-} 
-
-#wall .parent div:last-child  {
-  display: none;
-}
-
-#wall .parent:last-child #tag-7.slick {
+#wall .parent #tag-4, div#wall .parent div#tag-5.slick, #wall .parent div:last-child, #wall .parent:last-child #tag-7.slick {
   display: none;
 }
