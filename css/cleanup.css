@@ -1,3 +1,4 @@
+/*
 #wall .tag-1 {
   display: none;
 }
@@ -16,6 +17,7 @@ div#wall div#tag-3.slick {
 
 div#wall .parent div#tag-5.slick {
   display: none;
-}
+} 
+*/
 
-#wall
+#wall { display: none; }
