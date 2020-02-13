@@ -4,7 +4,7 @@
   display: none;
 } 
 
-div#wall div.parent div:last-child  {
+#wall .parent div:last-child  {
   display: none;
 }
 
